@@ -9,3 +9,4 @@
 # git clone https://github.com/HRCXXII/CreateDeface
 # cd CreateDeface
 # python, python2 CreateDeface.py
+# python, python2 SC-Deface.py
